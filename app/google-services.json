@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301329388620",
+    "firebase_url": "https://finalchat-84e5f.firebaseio.com",
+    "project_id": "finalchat-84e5f",
+    "storage_bucket": "finalchat-84e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301329388620:android:9b5bb1b4c8581165",
+        "android_client_info": {
+          "package_name": "com.dexterlab.finalchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301329388620-r6cv48gp4mlft184tmutnpar1t488f4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterlab.finalchat",
+            "certificate_hash": "e7e79698a32df1764f117969d83a19133798c13c"
+          }
+        },
+        {
+          "client_id": "301329388620-cp2qrhovsafblu623fq2vgsge5s42em6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRTwgLmzuKERcDgM6ybZRAi1AbHqva9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301329388620-cp2qrhovsafblu623fq2vgsge5s42em6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
